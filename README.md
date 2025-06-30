@@ -65,4 +65,18 @@ Examples for the Booking Management System:
 - The platform should support at least 10,000 concurrent users.  
 - The application must be available 99.9% of the time (high availability).
 
+## Use Case Diagrams
 
+Use Case Diagrams visually represent the interactions between users (actors) and the system. They help clarify the system’s functionality by illustrating what users can do and how they engage with the system. These diagrams are valuable for understanding requirements, communicating with stakeholders, and guiding development.
+
+**Benefits of Use Case Diagrams:**  
+- Simplify complex system interactions into easy-to-understand visuals  
+- Highlight system boundaries and user roles  
+- Facilitate communication between technical and non-technical team members  
+- Help identify all possible user actions and system responses
+
+### Booking Management System Use Case Diagram
+
+Below is a use case diagram for the booking management system. It shows key actors and their interactions with core system features like searching properties, managing listings, booking, and user authentication.
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
