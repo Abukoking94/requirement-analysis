@@ -79,6 +79,6 @@ Use Case Diagrams visually represent the interactions between users (actors) and
 
 Below is a use case diagram for the booking management system. It shows key actors and their interactions with core system features like searching properties, managing listings, booking, and user authentication.
 
-![alx-booking-uc](https://github.com/user-attachments/assets/b8678e55-e769-447d-aaf5-926a82ed34a6)
+![alx-booking-uc.png](https://github.com/user-attachments/assets/b8678e55-e769-447d-aaf5-926a82ed34a6)
 
 
