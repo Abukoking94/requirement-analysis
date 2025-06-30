@@ -81,4 +81,24 @@ Below is a use case diagram for the booking management system. It shows key acto
 
 ![ alx-booking-uc.png](https://github.com/user-attachments/assets/b8678e55-e769-447d-aaf5-926a82ed34a6)
 
+## Acceptance Criteria
 
+Acceptance Criteria define the specific conditions a feature must meet to be considered complete and acceptable by stakeholders. They help ensure that both developers and clients have a shared understanding of what "done" looks like.
+
+### Why Acceptance Criteria Matter:
+- Provide clear guidelines for developers and testers
+- Prevent misunderstandings about feature functionality
+- Ensure each feature aligns with user and business goals
+- Help in writing effective test cases for validation
+
+### Example: Checkout Feature – Acceptance Criteria
+
+**Feature:** Property Checkout
+
+- ✅ User must be logged in to proceed to checkout
+- ✅ User can review booking details (property name, dates, price)
+- ✅ System must calculate total cost including any service fees
+- ✅ Payment options must be visible and selectable
+- ✅ User receives a confirmation message and booking ID after payment
+
+These criteria ensure the checkout process works as expected and provides a smooth experience for the user.
