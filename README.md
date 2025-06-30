@@ -43,3 +43,26 @@ The Requirement Analysis phase involves several important activities that ensure
 
 - **Requirement Validation:** Reviewing requirements with stakeholders to confirm accuracy, completeness, and feasibility before proceeding to design and development.
 
+- ## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements describe the specific behaviors and functions the system must perform. They define **what** the system should do.
+
+Examples for the Booking Management System:  
+- Users can search for available properties by location and date.  
+- Hosts can create, update, or delete property listings.  
+- Users can book a property and receive a confirmation email.  
+- The system must allow users to register and log in securely.
+
+### Non-functional Requirements
+
+Non-functional requirements describe **how** the system performs its functions and the overall quality attributes.
+
+Examples for the Booking Management System:  
+- The system should load search results within 2 seconds.  
+- User data must be encrypted and securely stored to ensure privacy.  
+- The platform should support at least 10,000 concurrent users.  
+- The application must be available 99.9% of the time (high availability).
+
+
